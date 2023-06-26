@@ -1,0 +1,15 @@
+{
+	settings: {
+		// Active tab text/border color,
+		// Hover links
+		// Active links headers
+		// Setting names
+		headerForeground: { value: '{color.font.link.secondary.active.value}' },
+		textInputBackground: { value: '{color.background.tertiary.value}' },
+		textInputForeground: { value: '{color.font.primary.value}' },
+		dropdownBackground: { value: '{color.background.tertiary.value}' },
+		dropdownForeground: { value: '{color.font.primary.value}' },
+		// Left Border on modified setting
+		modifiedItemIndicator: { value: '{color.border.info.value}' },
+	},
+}
